@@ -27,6 +27,6 @@
         "dayspan-vuetify": "^0.4.0",
         "laravel-echo": "^1.7.0",
         "pusher-js": "^5.1.1",
-        "vuetify": "^2.2.21"
+        "vuetify": "^2.6.10"
     }
 }
